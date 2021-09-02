@@ -42,15 +42,15 @@
 
 ### Activity stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=googoldkhan&show_icons=true&locale=en" align="center" style="width: 100%" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=googoldkhan&show_icons=true&locale=en"/></div>
 
 ### Language stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=googoldkhan&show_icons=true&locale=en&langs_count=10&layout=compact" align="center" style="width: 100%" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=googoldkhan&show_icons=true&locale=en&langs_count=10&layout=compact"/></div>
 
 ### Streak stats
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=googoldkhan&" align="center" style="width: 100%" /></div>
+<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=googoldkhan&"/></div>
 
 <h4>Thanks for reviewing my profile. Here's a programming joke for you :D</h4>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
