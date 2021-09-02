@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=googoldkhan&label=Profile%20views&color=0e75b6&style=flat" alt="googoldkhan" /> </p>
 
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" alt="Meliodas" align="right" width="375" height="auto" />
+<img src="https://i.ibb.co/fnJ8CTS/7deadlysins.gif" alt="Meliodas" align="right" width="375" height="auto" />
 
 - 🔭 I’m currently doing [freeCodeCamp](https://www.freecodecamp.org/learn)
 
