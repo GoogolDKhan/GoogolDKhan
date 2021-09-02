@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sarfaraz Khan</h1>
-<h3 align="center">A Lifelong Learner</h3>
+<div align="center"><h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2></div>
+
+<h3 align="center">I'm a Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=googoldkhan&label=Profile%20views&color=0e75b6&style=flat" alt="googoldkhan" /> </p>
+
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif" alt="Meliodas" align="right" width="375" height="auto" />
 
 - 🔭 I’m currently doing [freeCodeCamp](https://www.freecodecamp.org/learn)
 
