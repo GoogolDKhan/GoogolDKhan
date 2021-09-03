@@ -6,11 +6,11 @@
 
 <img src="https://i.ibb.co/ByM3kxj/wow.gif" alt="Meliodas" align="right" width="375" height="auto" />
 
-- 🔭 I’m currently doing [freeCodeCamp](https://www.freecodecamp.org/learn)
+- 🎯 I’m currently doing [freeCodeCamp](https://www.freecodecamp.org/learn)
 
 - 🌱 I’m currently learning from [CodeWithHarry](https://www.codewithharry.com/)
 
-- 🎯 My freeCodeCamp [profile](https://www.freecodecamp.org/sarfarazkhan)
+- 🔭 Do check my freeCodeCamp [profile](https://www.freecodecamp.org/sarfarazkhan)
 
 - 👯 My Front End Projects at [CodePen](https://codepen.io/googoldkhan)
 
