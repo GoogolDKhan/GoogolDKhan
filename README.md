@@ -56,6 +56,13 @@
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=googoldkhan&"/></div>
 
 <!--START_SECTION:waka-->
+```text
+Python       9 hrs           ██████████▓░░░░░░░░░░░░░░   42.40 % 
+Markdown     5 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.53 % 
+HTML         2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+CSS          2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+JavaScript   1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+```
 <!--END_SECTION:waka-->
 
 <h4>Thanks for giving my profile a view. Here's a programming joke for you :D</h4>
