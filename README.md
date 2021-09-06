@@ -43,6 +43,9 @@
   
 </td></tr></table>
 
+<details>	
+  <summary><b>🤖 Github Stats</b></summary>
+
 ### Activity stats
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=googoldkhan&show_icons=true&locale=en"/></div>
@@ -54,7 +57,13 @@
 ### Streak stats
 
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=googoldkhan&"/></div>
+  
+</details>
 
+<details>	
+  <summary><b>⚡ Programming Stats</b></summary>
+  <br>
+  
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -117,6 +126,8 @@ CSS                      2 repos             █░░░░░░░░░░�
 
  Last Updated on 06/09/2021
 <!--END_SECTION:waka-->
+
+</details>
 
 <h4>Thanks for giving my profile a view. Here's a programming joke for you :D</h4>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
