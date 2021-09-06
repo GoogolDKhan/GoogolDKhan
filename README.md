@@ -55,5 +55,8 @@
 
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=googoldkhan&"/></div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h4>Thanks for giving my profile a view. Here's a programming joke for you :D</h4>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
