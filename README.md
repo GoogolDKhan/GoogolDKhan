@@ -44,7 +44,7 @@
 </td></tr></table>
 
 <details open>	
-  <summary><b>🤖 Github Stats</b></summary>
+  <summary><b>🤖 GITHUB STATS </b></summary>
 
 ### Activity stats
 
@@ -61,7 +61,7 @@
 </details>
 
 <details open>	
-  <summary><b>⚡ Programming Stats</b></summary>
+  <summary><b>⚡ PROGRAMMING STATS</b></summary>
   <br>
   
 <!--START_SECTION:waka-->
