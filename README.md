@@ -6,9 +6,9 @@
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31grbmpvlcw3ncvulb6tltspdche&cover_image=false&theme=default" alt="Spotify" align="right" width="375" height="240" />
 
-- 🎯 I’m currently doing [freeCodeCamp](https://www.freecodecamp.org/learn)
+- 🎯 I’m currently doing [DataScience](https://www.onlinedegree.iitm.ac.in/)
 
-- 🌱 I’m currently learning from [CodeWithHarry](https://www.codewithharry.com/)
+- 🌱 I’m currently learning from [FrescoPlay](https://play.fresco.me/)
 
 - 🔭 Do check my freeCodeCamp [profile](https://www.freecodecamp.org/sarfarazkhan)
 
@@ -16,7 +16,7 @@
 
 - 🤝 My Back End Projects at [Replit](https://replit.com/@GoogolDKhan)
 
-- 👨‍💻 My Legacy Full Stack Developer certificate is available [here](https://www.freecodecamp.org/certification/sarfarazkhan/full-stack)
+- 👨‍💻 My Legacy Full Stack Web Developer certificate is available [here](https://www.freecodecamp.org/certification/sarfarazkhan/full-stack)
 
 - ⚡ Fun fact **The most popular user is _Linus Torvalds_ with over **_140K followers_** whereas he follows none (contrary to the assumption that "_`more users I follow, the more users will follow me`_") .**
 
