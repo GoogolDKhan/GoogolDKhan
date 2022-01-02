@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=googoldkhan&label=Profile%20views&color=0e75b6&style=flat" alt="googoldkhan" /> </p>
 
-<img src="https://i.ibb.co/ByM3kxj/wow.gif" alt="Meliodas" align="right" width="375" height="auto" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31grbmpvlcw3ncvulb6tltspdche&cover_image=false&theme=default" alt="Spotify" align="right" width="420" height="240" />
 
 - 🎯 I’m currently doing [freeCodeCamp](https://www.freecodecamp.org/learn)
 
