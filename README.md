@@ -43,7 +43,7 @@
   
 </td></tr></table>
 
-<details open>	
+<details>	
   <summary><b>🤖 GITHUB STATS </b></summary>
 
 ### Activity stats
@@ -60,7 +60,7 @@
   
 </details>
 
-<details open>	
+<details>	
   <summary><b>⚡ PROGRAMMING STATS</b></summary>
   <br>
   
