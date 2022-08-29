@@ -6,9 +6,9 @@
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31grbmpvlcw3ncvulb6tltspdche&cover_image=false&theme=default" alt="Spotify" align="right" width="375" height="240" />
 
-- 🎯 I’m currently doing [DataScience](https://www.onlinedegree.iitm.ac.in/)
+- 🎯 I’m currently doing [Telecom & CPP](https://en.cppreference.com/w/)
 
-- 🌱 I’m currently learning from [FrescoPlay](https://play.fresco.me/)
+- 🌱 I’m currently pursuing BS from [Online Degree](https://onlinedegree.iitm.ac.in/)
 
 - 🔭 Do check my freeCodeCamp [profile](https://www.freecodecamp.org/sarfarazkhan)
 
