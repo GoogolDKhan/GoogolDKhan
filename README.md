@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=googoldkhan&label=Profile%20views&color=0e75b6&style=flat" alt="googoldkhan" /> </p>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31grbmpvlcw3ncvulb6tltspdche&cover_image=false&theme=default" alt="Spotify" align="right" width="375" height="240" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sqwdqu43wnlts5negnjrnxnsdy&cover_image=false&theme=default" alt="Spotify" align="right" width="375" height="240" />
 
 - 🎯 I’m currently doing [Telecom & CPP](https://en.cppreference.com/w/)
 
